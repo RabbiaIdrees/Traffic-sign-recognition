@@ -50,13 +50,13 @@ Correct classification ensures that vehicles can understand road rules and respo
 ## 📊 Visualizations
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/2.png)
 
 ### Per-Class Accuracy
-![Per Class Accuracy](images/per_class_accuracy.png)
+![Per Class Accuracy](images/3y.png)
 
 ### Random Predictions (Correct & Misclassified)
-![Random Predictions](images/random_predictions.png)
+![Random Predictions](images/4.png)
 
 ## 📈 Results
 - Validation accuracy: ~99–100%  

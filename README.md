@@ -12,7 +12,7 @@ Correct classification ensures that vehicles can understand road rules and respo
 ## ⚙️ Process Workflow
 
 ### 1️⃣ Dataset Preparation
-- Data from **Kaggle (GTSRB)**.  
+- Data from **Kaggle (GTSRB)**. https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign 
 - Converted to YOLOv8 folder-per-class format (train/val/test).  
 - Important: remove duplicate prefixes in CSV, rebuild test from `Test.csv`.
 

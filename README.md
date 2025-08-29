@@ -50,7 +50,7 @@ Correct classification ensures that vehicles can understand road rules and respo
 ## 📊 Visualizations
 
 ### Confusion Matrix !
-[Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Per-Class Accuracy
 ![Per Class Accuracy](per_class_accuracy.png)
